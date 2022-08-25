@@ -69,28 +69,6 @@ public class Program {
 		System.out.println(order);
 		
 		sc.close();
-		/*Product p1 = new Product("TV", 1000.0);
 		
-		OrderItem oi1 = new OrderItem (1, p1.getPrice(), p1);
-		
-		System.out.println(oi1);
-		
-		Client c1 = new Client ("Viniçu", "ablubluble@gmail.com", LocalDate.of(2002, Month.SEPTEMBER, 30));
-		Client c2 = new Client ();
-		String name = sc.nextLine();
-		String email = sc.nextLine();
-		int dia = sc.nextInt();
-		int mes = sc.nextInt();
-		int ano = sc.nextInt();
-	
-		LocalDate ld1 = LocalDate.of(ano, mes, dia);
-		c2.setBirthDate(ld1);
-		c2.setEmail(email);
-		c2.setName(name);
-		System.out.println(c2);
-		
-		System.out.println(c1);*/
-		
-	
 	}
 }
